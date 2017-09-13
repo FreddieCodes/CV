@@ -4,8 +4,6 @@ I am currently learning to code at Makers Academy, being a graduate of Geography
 
 Now I am learning to be a maker of code, because I have always loved to make things that work, and with code, I can make things that work in the virtual universe as well as the real one.
 
-My interest in software development comes from tinkering. Tinkering with Lego, with bits of old wood to create model spaceships, with the program files of my first video games, with piano keyboards and electric guitars. This year, I independently learnt some C# and the Unity 5 engine to create some proto-games, and to have fun with physics.
-
 My ambition now is to build a career in software development, working in a innovative team of problem solvers with whom I can both contribute and learn from.
 
 ## Skills
