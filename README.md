@@ -11,11 +11,7 @@ My ambition now is to build a career in software development, working in a innov
 
 #### Identifying, analysing and solving problems
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+I love solving problems and have throughly enjoyed honing this skill at Makers Academy. Whether working in a team or on my own, my first instincts are to confirm my assumptions and gain visibility on what is happening in my code, then to test my hypotheses. Repeating and tightening this cycle until I have a solution is a strategy that has been integral to my success as a developer.
 
 #### Communication
 
