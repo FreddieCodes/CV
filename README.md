@@ -1,6 +1,6 @@
 ## James Ransome
 
-[Skills](https://github.com/jransome/CV#skills) | [Education](https://github.com/jransome/CV#education) | [Work Experience](https://github.com/jransome/CV#experience)
+[Skills](https://github.com/jransome/CV#skills) | [Education](https://github.com/jransome/CV#education) | [Work Experience](https://github.com/jransome/CV#experience) | [LinkedIn](https://www.linkedin.com/in/james-ransome-487941b1/)
 
 Junior software engineer with a passion for making through coding. Graduate of Makers Academy, with degrees in Geography and Anthropology. Before coding, I created maps underpinning the high-level planning and analysis of London’s demography and health infrastructure, and I devised and led games and exercises for basic music education workshops aimed at young refugees.
 
@@ -62,8 +62,46 @@ AS Levels: Computing (A) & Maths (mechanics) (B)
 London Healthy Urban Development Unit (May 2016 – May 2017)    
 _GIS Technician_
 
+GIS Technician based within an NHS unit tasked with ensuring the integration of healthcare with effective infrastructure planning for new developments and population growth in London.
+
+*	Undertaking spatial analyses of London's demography and the projected impact of future growth on NHS health infrastructure using ArcGIS.
+
+*	Designing maps and other forms of statistical data visualisation to concisely illustrate this analysis for presentation to various NHS organisations.
+
+*	Authoring reports using maps and statistical analysis to support and inform the development of estate strategies.
+
+*	Developing and maintaining a London-wide NHS asset database including an online mapping tool. This involved collating, scrutinising and analysing large volumes of estates data from various NHS sources.
+
+*	Communicating my analysis to my team.
+
 Soundmix (November 2014 – April 2017)    
 _Assistant Workshop Tutor_
 
+Tutor for a charity providing basic music education to young refugees and asylum seekers. Soundmix offered me this paid role after my voluntary work with them.
+
+* Devising and leading group exercises designed to promote participants' rhythmic and musical abilities.
+
+* Tutoring young participants individually and in groups, in keyboard, guitar and percussion.
+
+* Developing workshop content and structure in tandem with assessments of participants’ progress.
+
+* Contributing to planning and evaluation sessions with new approaches, exercises and monitoring mechanisms.
+
+* Working in a team to manage individual behaviour and overall workshop dynamic to create an engaging and friendly atmosphere.
+
+* Setting up and maintaining musical equipment.
+
 Commonwealth Secretariat, Political Division (September 2015 – March 2016)   
 _Political Intern_
+
+* Monitoring Commonwealth countries for key events in political, economic and social discourse. Analysing this data in relation to the Commonwealth Ministerial Action Group’s framework for intervention and communicating my analysis to the division. 
+
+* Drafting talking-points for Commonwealth officials (including the Commonwealth Secretary General) to use in bilateral meetings with representatives of other countries, drawing upon said monitoring research.
+
+* Solely representing my division at regular meetings with the Communications division to give and receive feedback on respective working agendas. Liaising with departments and outside staff to help organise official visits.
+
+* Using advanced Excel features to produce planning tools coordinating all tasks covering the organisation and aftermath of a biennial Commonwealth Heads of Government Meeting (CHOGM), based on the 2015 Malta CHOGM.
+
+* Undertaking special research projects ranging from evaluating which countries to engage and how, to reviewing current research/practices in certain development concepts. Presenting these in a concise formatted document, with statistical data visualisation.
+
+* Proof reading official documents and releases, minuting meetings, compiling and updating various documents and contact lists.
