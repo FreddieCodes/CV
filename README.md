@@ -59,8 +59,7 @@ AS Levels: Computing (A) & Maths (mechanics) (B)
 
 ## Experience
 
-#### London Healthy Urban Development Unit (May 2016 – May 2017)    
-_GIS Technician_
+#### London Healthy Urban Development Unit (May 2016 – May 2017) - GIS Technician
 
 GIS Technician based within an NHS unit tasked with ensuring the integration of healthcare with effective infrastructure planning for new developments and population growth in London.
 
@@ -74,8 +73,7 @@ GIS Technician based within an NHS unit tasked with ensuring the integration of 
 
 *	Communicating my analysis to my team.
 
-#### Soundmix (November 2014 – April 2017)    
-_Assistant Workshop Tutor_
+#### Soundmix (November 2014 – April 2017) - Assistant Workshop Tutor
 
 Tutor for a charity providing basic music education to young refugees and asylum seekers. Soundmix offered me this paid role after my voluntary work with them.
 
@@ -91,8 +89,7 @@ Tutor for a charity providing basic music education to young refugees and asylum
 
 * Setting up and maintaining musical equipment.
 
-#### Commonwealth Secretariat, Political Division (September 2015 – March 2016)   
-_Political Intern_
+#### Commonwealth Secretariat, Political Division (September 2015 – March 2016) - Political Intern
 
 * Monitoring Commonwealth countries for key events in political, economic and social discourse. Analysing this data in relation to the Commonwealth Ministerial Action Group’s framework for intervention and communicating my analysis to the division.
 
