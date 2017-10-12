@@ -1,10 +1,20 @@
 ## James Ransome
 
-[Skills](https://github.com/jransome/CV#skills) | [Education](https://github.com/jransome/CV#education) | [Work Experience](https://github.com/jransome/CV#experience) | [LinkedIn](https://www.linkedin.com/in/james-ransome-487941b1/)
+[Projects](https://github.com/jransome/CV#projects) | [Skills](https://github.com/jransome/CV#skills) | [Education](https://github.com/jransome/CV#education) | [Work Experience](https://github.com/jransome/CV#experience) | [LinkedIn](https://www.linkedin.com/in/james-ransome-487941b1/)
 
-Junior software engineer with a passion for making through coding. Graduate of Makers Academy, with degrees in Geography and Anthropology. Before coding, I created maps underpinning the high-level planning and analysis of London’s demography and health infrastructure, and I devised and led games and exercises for basic music education workshops aimed at young refugees.
+Junior software engineer recently graduated from [Makers Academy](http://employers.makersacademy.com/) with a passion for making through coding. Graduate of Makers Academy, with degrees in Geography and Anthropology. Before coding, I created maps underpinning the high-level planning and analysis of London’s demography and health infrastructure, and I devised and led games and exercises for basic music education workshops aimed at young refugees.
 
 My ambition now is to build a career in software development, where I can contribute and learn from the challenge of making things alongside an innovative team of problem solvers.
+
+## Projects
+
+| Project | Summary | Links | Technology | Testing |
+| :-: | --- | :-: | :-: | :-: |
+| Music Safari  | Login to Spotify and geotag your favourite songs to a map of the world! Become a sonic adventurer with an app that creates a musical dimension to geography! | <p align="center"><a href="https://github.com/jransome/music-safari"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p><p align="center"><a href="http://music-safari.herokuapp.com"><img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="50px" height="40px"></a></p> | Javascript, Express, Firebase | Mocha, Jasmine |
+| Tic Tac Toe | Business logic for noughts and crosses. | <p align="center"><a href="https://github.com/jransome/tic-tac-toe-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript | Jasmine |
+| Chitter challenge  | Twitter clone built as a weekend challenge after week 4 of Makers Academy. | <p align="center"><a href="https://github.com/jransome/chitter-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p><p align="center"><a href="https://rocky-temple-36764.herokuapp.com/peeps"><img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="50px" height="40px"></a></p> | Ruby, Sinatra, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara |
+| Reign of Terra | A cross-platform Android and iOS app that gamifies your jog or cycle by turning your route into territory for your empire. Built in less than two weeks without any prior experience of mobile development or React Native. | <p align="center"><a href="https://github.com/jransome/reign-of-terra"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p>| React Native, Android, iOS, Firebase | Jest
+| Acebook  | Facebook clone using Ruby-on-Rails. | <p align="center"><a href="https://github.com/makersacademy/acebook-july2017"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p><p align="center"><a href="https://acebook17.herokuapp.com"><img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="50px" height="40px"></a></p>  | Ruby on Rails | Rspec |
 
 ## Skills
 
