@@ -2,7 +2,7 @@
 
 [Projects](https://github.com/jransome/CV#projects) | [Skills](https://github.com/jransome/CV#skills) | [Education](https://github.com/jransome/CV#education) | [Work Experience](https://github.com/jransome/CV#experience) | [LinkedIn](https://www.linkedin.com/in/james-ransome-487941b1/)
 
-Junior software engineer recently graduated from [Makers Academy](http://employers.makersacademy.com/) with a passion for making through coding. Graduate of Makers Academy, with degrees in Geography and Anthropology. Before coding, I created maps underpinning the high-level planning and analysis of London’s demography and health infrastructure, and I devised and led games and exercises for basic music education workshops aimed at young refugees.
+Junior software engineer with a passion for making through coding. Graduate of [Makers Academy](http://employers.makersacademy.com/), with degrees in Geography and Anthropology. Before coding, I created maps underpinning the high-level planning and analysis of London’s demography and health infrastructure, and I devised and led games and exercises for basic music education workshops aimed at young refugees.
 
 My ambition now is to build a career in software development, where I can contribute and learn from the challenge of making things alongside an innovative team of problem solvers.
 
