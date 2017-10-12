@@ -69,7 +69,7 @@ AS Levels: Computing (A) & Maths (mechanics) (B)
 
 ## Experience
 
-#### London Healthy Urban Development Unit (May 2016 – May 2017) - GIS Technician
+#### NHS London Healthy Urban Development Unit (JVM Consultants) (May 2016 – June 2017) - GIS Technician
 
 GIS Technician based within an NHS unit tasked with ensuring the integration of healthcare with effective infrastructure planning for new developments and population growth in London.
 
