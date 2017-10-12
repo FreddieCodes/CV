@@ -83,7 +83,7 @@ GIS Technician based within an NHS unit tasked with ensuring the integration of 
 
 *	Communicating my analysis to my team.
 
-#### Soundmix (November 2014 – April 2017) - Assistant Workshop Tutor
+#### Soundmix (November 2014 – April 2017) - Assistant Music Workshop Tutor
 
 Tutor for a charity providing basic music education to young refugees and asylum seekers. Soundmix offered me this paid role after my voluntary work with them.
 
